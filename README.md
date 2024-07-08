@@ -1,2 +1,4 @@
 # Michelin Restaurants Analysis
-Analytics Portfolio
+By delving into a comprehensive Michelin star dataset, the patterns and predictors are found which may influence a restaurant's chances of earning a Michelin star. This analysis covers four main areas: the impact of various factors on winning a Michelin star, the cuisines most likely to win, geographical factors of a Michelin Star and the financial benefits of receiving a Michelin star.
+
+I conducted a comprehensive analysis of 3,192 Michelin-starred restaurants worldwide, correcting data for the year 2024. The dataset includes information such as Restaurant Name, Year Received Michelin Star, City, Country, Chef Name, Cuisine Type, Price Range, Revenue Before Michelin Star (USD), Current Annual Revenue (USD), Number of Seats, Years in Operation, Customer Reviews, and Customer Ratings.
